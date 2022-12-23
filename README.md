@@ -13,10 +13,10 @@
 ![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-## Tasks Performed
-* Time Series Forecasting
-* Data Visualization
-* Data Analysis
+## 📋 Tasks Performed
+* 📉 Time Series Forecasting
+* 📊 Data Visualization
+* 💻 Data Analysis
 
 ## ✍️ Authors
 * Sharayu Thosar
