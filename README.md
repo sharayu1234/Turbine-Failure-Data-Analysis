@@ -14,9 +14,9 @@
 ![](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ## 📋 Tasks Performed
-* 📉 Time Series Forecasting
+* 💻 Exploratory Data Analysis
 * 📊 Data Visualization
-* 💻 Data Analysis
+
 
 ## ✍️ Authors
 * Sharayu Thosar
