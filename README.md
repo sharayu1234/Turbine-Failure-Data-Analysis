@@ -19,6 +19,6 @@
 * 💻 Data Analysis
 
 ## ✍️ Author
-Sharayu Thosar
-* [Email](mailto:sharayu.thosar@gmail.com)
-* <a href="https://www.linkedin.com/in/sharayu-thosar/">LinkedIn </a>
+* Sharayu Thosar
+* Prathamesh Lonkar
+* Aishwarya Zambre
