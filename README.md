@@ -1,6 +1,6 @@
 # Turbine Failure Data Analysis
 
-####  Data Visualization and Time Series Forecasting in Python to delineate the reasons and predict future breakdowns. (Created in October 2020)
+####  Data Visualization and Time Series Forecasting in Python to delineate the reasons and predict future breakdowns. (Created in November 2020)
 
 ## 🏗️ Built with
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
