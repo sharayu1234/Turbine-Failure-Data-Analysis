@@ -14,9 +14,9 @@
 ![](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ## 📋 Tasks Performed
-* 💻 Exploratory Data Analysis (Univariate, Bivariate and Multivariate Analysis)
-* 🧹 Data Cleaning (Handling Missing Values, Standardising values, 
+* Time Series Forecasting 
 * 📊 Data Visualization
+* Data Analysis
 
 ## ✍️ Author
 Sharayu Thosar
