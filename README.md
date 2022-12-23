@@ -22,3 +22,8 @@
 * Sharayu Thosar
 * Prathamesh Lonkar
 * Aishwarya Zambre
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!</br>
+Give a ⭐️ if you like this project!
